@@ -5,8 +5,7 @@ Converts Toshl CSV file to Excel format
 
 =============
 
-Sums up all monthly expenditures that have the same tag
- - Incomes are not taken into account
+Sums up all monthly expenditures that have the same tag (Incomes are not taken into account)
 =============
 
 Example:
